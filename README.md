@@ -1,9 +1,9 @@
-# portfolio
-technologies used
-#html
-#css 
-#flexbox
-#javascript
-#dom manipulation
-#linux
+# portfolio <br>
+technologies used <br>
+#html <br>
+#css <br>
+#flexbox <br>
+#javascript <br>
+#dom manipulation <br>
+#linux <br>
 #git
