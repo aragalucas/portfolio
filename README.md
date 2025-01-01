@@ -6,5 +6,6 @@ technologias usadas <br>
 #flexbox <br>
 #javascript <br>
 #dom manipulation <br>
+python <br>
 #linux <br>
 #git
