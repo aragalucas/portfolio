@@ -1,6 +1,6 @@
 live site: https://aragalucas.github.io/portfolio/
 # portfolio <br>
-technologies used <br>
+technologias usadas <br>
 #html <br>
 #css <br>
 #flexbox <br>
