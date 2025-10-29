@@ -1,4 +1,4 @@
-live site: https://aragalucas.github.io/portfolio/
+live site: https://aragao-lucas.github.io/portfolio/
 # portfolio <br>
 tecnologias usadas <br>
 #html <br>
